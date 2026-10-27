@@ -1,0 +1,66 @@
+# Django Core
+Django
+djangorestframework
+django-cors-headers
+django-filter
+
+# JWT Authentication
+djangorestframework-simplejwt
+
+# Database
+psycopg2-binary
+# OR
+# mysqlclient
+
+# File Handling
+Pillow
+
+# Environment Variables
+python-decouple
+python-dotenv
+
+# Date/Time Handling
+python-dateutil
+pytz
+
+# Validation
+validators
+
+# API Documentation
+drf-spectacular
+
+# Testing
+pytest
+pytest-django
+factory-boy
+
+# Code Quality
+flake8
+black
+isort
+
+# Production Server
+gunicorn
+whitenoise
+
+# Monitoring
+sentry-sdk
+
+# Celery (for async tasks like bulk calling)
+celery
+redis
+
+# Excel/CSV Processing
+openpyxl
+pandas
+
+# Blockchain Integration (for document verification)
+web3
+
+# SMS/Calling API (example)
+twilio
+
+# Development Tools
+django-debug-toolbar
+django-extensions
+ipython
